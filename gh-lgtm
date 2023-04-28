@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -e
+
+# Comment and approve PR
+gh pr review "$1" --comment -b "LGTM 🚀"
+gh pr review "$1" --approve
