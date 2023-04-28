@@ -17,3 +17,5 @@ gh lgtm [<number> | <url> | <branch>]
 ## Disclaimer
 
 This extension was created as satire on the common PR reviews workflow. I don't endorse this behavior, but you can still use this extension once you have _actually_ reviewed the PR ¯\\_(ツ)_/¯
+
+Should probably test this!
